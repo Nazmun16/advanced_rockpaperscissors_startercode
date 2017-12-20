@@ -20,9 +20,30 @@
 
 //GLOBAL VARIABLES
 
+var userchoice = "";
+console.log(userchoice);
+var computerchoice = "";
+console.log(computerchoice);
+var winner = "";
+console.log(winner);
+
+var Choices = ["Rock", "Paper","Scissors"];
 
 
 //FUNCTIONS
+var game = 
+$("button").click(function(){
+        var inputuserchoice =
+        $(userchoice).val;
+        var computerchoice = ""
+        if (userchoice === ) {
+    console.log("User Win");}
+
+
+        
+        
+}
+
 
 
 
